@@ -30,10 +30,5 @@ pip install scapy
 Enter the name of your network interface when prompted. The script will start monitoring the traffic on that interface and will print a message whenever a deauthentication packet is detected.
 Important Notes
 This tool requires administrative or root permissions to read packets from the network interface.
-Make sure you are legally allowed to monitor the network in question to avoid any legal issues.
-The tool is developed for educational purposes and should not be used for unauthorized network monitoring.
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 
-This `README.md` file should be placed in the same directory as your Python script. It provides a comprehensive guide on how to set up, use, and understand the purpose of your tool. If you have any other sections you'd like to add or specific information, feel free to let me know!
